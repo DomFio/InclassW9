@@ -25,6 +25,7 @@ const userData = async (req, res, next) => {
                         score,
                         userId
                     },
+                    
                     avgScore
                 },
                 submissions {
